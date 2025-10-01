@@ -1,0 +1,23 @@
+footer{
+    margin: auto;
+    bottom: 0;
+    width: 100%;
+}
+.barra_menu{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    border: solid orange;
+    margin: 30px;
+}
+.h1{
+    text-align: center;
+    color: brown
+}
+.h1:hover{
+    background-color: greenyellow;
+    border: solid yellow;
+}
+body{
+    background-color: grey;
+}
