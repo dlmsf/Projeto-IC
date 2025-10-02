@@ -22,7 +22,6 @@
     width: 100%;
     text-align: center;
     border: solid rgb(67, 46, 7);
-    margin: 30px;
     padding: 20px;
 }
 .h1{
@@ -36,4 +35,12 @@
 
 .img{
     background-size: contain;
+}
+.nome-loja{
+    line-height: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(31, 124, 68);
+    margin-top: 0;
 }
