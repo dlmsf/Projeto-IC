@@ -23,6 +23,7 @@
     text-align: center;
     border: solid rgb(67, 46, 7);
     padding: 20px;
+    display: flex;
 }
 .h1{
     text-align: center;
