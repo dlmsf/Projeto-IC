@@ -24,12 +24,15 @@
     border: solid rgb(67, 46, 7);
     padding: 20px;
     display: flex;
+    display: inline-table;
+    box-sizing: border-box;
 }
-.h1{
+
+.p{
     text-align: center;
     color: brown
 }
-.h1:hover{
+.p:hover{
     background-color: greenyellow;
     border: solid yellow;
 }
@@ -45,3 +48,22 @@
     color: rgb(31, 124, 68);
     margin-top: 0;
 }
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: max-content;
+    text-size-adjust: 200px;
+    font-weight: bold;
+    color:orange;
+}
+#teste{
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+}
+
+#teste:hover{
+    font-size: medium;
+    transform: scale(1.10);
+    }
