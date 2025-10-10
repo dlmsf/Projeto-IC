@@ -82,13 +82,12 @@ h1{
         padding: 10px 20px;
         border-radius: 5px;
     }
-
-iframe{
-    width:600px;
-    height:450px; 
-    border: 0;
-    margin: 100px;
-    position: fixed;
-    flex-direction: column;
+.frame{
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
     
