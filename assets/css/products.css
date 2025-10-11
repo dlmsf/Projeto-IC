@@ -114,3 +114,51 @@ h1 {
         font-size: 1.5rem;
     }
 }
+
+.barra_menu{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    border: solid rgb(67, 46, 7);
+    border-radius: 6px 6px 6px 6px;
+    padding: 2px;
+    display: flex;
+    display: inline-table;
+    box-sizing: border-box;
+}
+
+.p{
+    text-align: center;
+    color: brown;
+    font-size: large;
+    
+}
+.p:hover{
+    background-color: greenyellow;
+    border: solid yellow;
+}
+
+#teste{
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+#teste:hover{
+    font-size: medium;
+    transform: scale(1.10);
+    }
+
+    .lista-flex {
+        display: flex;
+        list-style-type: none;
+        padding: 0;
+        gap: 20px;
+    }
+    
+    .lista-flex li {
+        padding: 10px 20px;
+        border-radius: 5px;
+    }
