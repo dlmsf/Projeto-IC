@@ -59,15 +59,12 @@ h1{
     font-weight: bold;
     color:orange;
 }
-#teste{
-    display: flex;
-    position: fixed;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
+.teste i{
+  margin-left: auto;
+
 }
 
-#teste:hover{
+.teste:hover{
     font-size: medium;
     transform: scale(1.10);
     }
