@@ -59,9 +59,10 @@ h1{
     font-weight: bold;
     color:orange;
 }
-.teste i{
-  margin-left: auto;
-
+.teste{
+    top: 30px;
+    left: 720px;
+    position: absolute;
 }
 
 .teste:hover{

@@ -124,11 +124,11 @@ h1 {
     border: solid yellow;
 }
 
-.teste i{
-  margin-left: auto;
+.teste{
+    top: 30px;
+    left: 720px;
+    position: absolute;
 }
-
-
 
 .teste:hover{
     font-size: medium;
