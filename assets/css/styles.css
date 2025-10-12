@@ -145,3 +145,27 @@ h1{
     color: rgb(186, 241, 4);
 
 }
+
+.nossos_produtos{
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.titulo{
+    color: orange;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.descricao{
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 20px;
+}
+.contato{
+    color: white
+
+}
