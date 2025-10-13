@@ -155,7 +155,7 @@ h1{
     color: orange;
     text-align: center;
     font-size: xx-large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: bold;
 }
 .descricao{
@@ -169,3 +169,4 @@ h1{
     color: white
 
 }
+
