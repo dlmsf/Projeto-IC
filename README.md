@@ -1,13 +1,13 @@
 Título do projeto: Recifut
 Descrição: Loja de artigos esportivos.
-Autores: Augusto Freitas, Daniel Luiz e João Lucas
+Autores: Augusto Freitas Wanderley de Siqueira, Daniel Luiz Massud e João Lucas Mendes dos Santos
 Papéis de cada autor:
 
-Augusto Freitas: Responsável pela estilização e criação da barra de navegação, título da loja, imagem de background do site, hero-content e iframe do mapa.
+Augusto Freitas Wanderley de Siqueira: Responsável pela estilização e criação da barra de navegação, título da loja, imagem de background do site, hero-content e iframe do mapa.
 
-João Lucas: Responsável pela descrição detalhada das páginas "sobre" e "contato", pelo ícone do head, pela pasta de imagens e pela criação do vídeo de demonstração.
+João Lucas Mendes dos Santos: Responsável pela descrição detalhada das páginas "sobre" e "contato", pelo ícone do head, pela pasta de imagens e pela criação do vídeo de demonstração.
 
-Daniel Luiz: Responsável por todo o corpo da página dos "produtos", das imagens relacionadas aos produtos, todo o processo de estilização da página e da área relacionada à vendas.
+Daniel Luiz Massud: Responsável por todo o corpo da página dos "produtos", das imagens relacionadas aos produtos, todo o processo de estilização da página e da área relacionada à vendas.
 
 
 Rodando o projeto:
@@ -18,8 +18,6 @@ Rodando o projeto:
 1. Decidimos deixar a imagem de fundo com um aspecto "embassado" através do efeito de blur.
 2. Decidimos criar um ícone de imagem só para o "head".
 3. Decidimos estilizar a barra do menu de navegação com um raio de borda de 6px.
-
-
 
 
 Paletas utilizadas -->
